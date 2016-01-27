@@ -1,6 +1,7 @@
 # WebPageUnderstanding
-基于人工智能的网页理解
-新闻节点识别
+# 基于人工智能的网页理解
+--------------
+## 新闻节点识别
 
 ## Usage:
 python NodeRecognizer.py
